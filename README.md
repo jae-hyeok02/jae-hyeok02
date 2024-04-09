@@ -1,4 +1,8 @@
-### Hi there 👋
+
+<!-- bold 처리: ### 내용 -->
+
+<h1 align="center">Hi 👋, I'm Kang Jae Hyeok</h1>
+
 
 <!--
 **jae-hyeok02/jae-hyeok02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
