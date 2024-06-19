@@ -3,6 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Kang Jae Hyeok</h1>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=js96543)](https://solved.ac/js96543/)
+
 
 <!--
 **jae-hyeok02/jae-hyeok02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
