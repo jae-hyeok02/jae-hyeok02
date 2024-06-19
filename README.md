@@ -1,7 +1,8 @@
 
 <!-- bold 처리: ### 내용 -->
 
-<h1 align="center">Hi 👋, I'm Kang Jae Hyeok</h1>
+<!-- <h1 align="center">Hi 👋, I'm Kang Jae Hyeok</h1> -->
+<h3>Hi 👋, I'm Kang Jae Hyeok</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=js96543)](https://solved.ac/js96543/)
 
